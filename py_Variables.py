@@ -1,8 +1,9 @@
 '''
 Numeric datatypes: int,float and complex
-sequence data types: str,list,tuple
+Sequence data types: str,list,tuple,range
 mutable - Updation at the same address is possible
 immutable - updation at the same address is not possible
+Mapped data: dictionary
 '''
 a = 167.46
 print(a)
@@ -28,6 +29,6 @@ print("The type of l1 is",type(l1))
 print("The type of t1 is",type(t1))
 print(l1)
 print(t1)
-d1 = {1:"Aakash",2:"Arnab",3:"Akash Mandal",4:"Arkaprava",5:"Arnab"}
+d1 = {1:"Aakash",2:"Aditya",3:"Akash Mandal",4:"Arkaprava",5:"Arnab"}
 print(d1)
 print("The type of d1 is",type(d1))
