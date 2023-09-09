@@ -1,9 +1,11 @@
 '''
 Numeric datatypes: int,float and complex
 Sequence data types: str,list,tuple,range
+boolean data type: bool
 mutable - Updation at the same address is possible
 immutable - updation at the same address is not possible
 Mapped data: dictionary
+Everything in python is an object of some class
 '''
 a = 167.46
 print(a)
